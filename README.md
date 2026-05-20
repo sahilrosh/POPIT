@@ -2,6 +2,10 @@
 
 POPIT is a Unity project repository.
 
+## Working Demo
+
+![POPIT Working Demo](Assets/ScreenRecording.gif)
+
 ## Requirements
 
 - Unity Hub
