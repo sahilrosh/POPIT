@@ -4,7 +4,9 @@ POPIT is a Unity project repository.
 
 ## Working Demo
 
-![POPIT Working Demo](Assets/ScreenRecording.gif)
+<p align="center">
+  <img src="Assets/ScreenRecording.gif" alt="POPIT Working Demo" width="280" />
+</p>
 
 ## Requirements
 
